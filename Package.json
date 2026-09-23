@@ -1,12 +1,2 @@
-{
-  "name": "my-bot-whatsapp",
-  "version": "1.0.0",
-  "description": "My first WhatsApp bot project",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "Lezkush",
-  "license": "GPL-3.0"
-}
+
+{ "name": "lezkush-whatsapp-bot", "version": "1.0.0", "description": "Lezkush WhatsApp Bot", "main": "index.js", "scripts": { "start": "node index.js",
